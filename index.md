@@ -1,9 +1,18 @@
-## num2words.js
+---
+layout: default
+---
 
-Konvertálj bármilyen számot szöveggé azonnal.
-
-### Használat
+# Usage
 
 ```js
 Number.toWords(1000); //egyezer
 ```
+
+# Languages
+
+| language     | status            |
+|:-------------|:------------------|
+| Hungarian    | `Supported`       |
+| English      | Soon              |
+
+* * *
