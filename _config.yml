@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: num2words.js
 description: Convert any number to words
+show_downloads: false
